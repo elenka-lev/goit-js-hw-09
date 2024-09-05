@@ -8,4 +8,4 @@ import"./assets/styles-DpH5eVAF.js";import{S as e}from"./assets/vendor-CgTBfC_f.
     />
   </a>
 </li>`).join("");c.insertAdjacentHTML("beforeend",p)}s(n);new e(".gallery a",{captionsData:"alt",captionsDelay:250});
-//# sourceMappingURL=gallery.js.map
+//# sourceMappingURL=1-gallery.js.map
