@@ -23,7 +23,8 @@ form.addEventListener('input', (event) => {
 })
 
 form.addEventListener('submit', (event) => {
-
+    event.preventDefault();
+    
     if (formData.email === '' || formData.message === '') {
         alert('Fill please all fields');
         return
